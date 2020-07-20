@@ -1,0 +1,65 @@
+.logo {
+	max-height: 50px;
+	height: auto;
+	width: auto;
+}
+
+.bg-smoke{
+	background-color: rgb(240, 240, 240);}
+
+.bd-black{
+	border: 1px solid;
+	border-color: black;
+}
+
+.rht {
+	position: relative;
+	left: 65vw;
+}
+
+.fs{
+	font-size: 20px;
+}
+
+.img-size{
+	max-height: 500px;
+	max-width: 500px;
+	display: block;
+	position: relative;
+	left:25%;
+	height: auto;
+	width: auto;
+}
+
+.bd-left{
+	border-left: 1px solid;
+}
+
+.wdt93{
+	position: relative;
+	left: 0;
+	width: 93vw;
+}
+
+.l0{
+	color: white;
+	margin-left: 0;
+	position: absolute;
+	left: 0;
+	width: 100%;
+}
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.kalam{
+    font-family: 'Kalam', cursive;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.caption{
+	color: gray;
+}
